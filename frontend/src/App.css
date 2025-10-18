@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.logo {
+  height: 6rem;
+  padding: 1rem;
+  transition: all 0.3s ease;
+}
+
+.logo.react:hover {
+  transform: rotate(20deg);
+}
+
+.card {
+  margin: 2rem;
+}
+
+.backend-test, .learni-section {
+  margin-top: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  width: 300px;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.answer {
+  margin-top: 1rem;
+  font-weight: bold;
+}
